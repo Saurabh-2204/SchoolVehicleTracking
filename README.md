@@ -1,3 +1,8 @@
 # SchoolVehicleTracking
 This is vehicle tracking website that track vehicle.
-Authors - saurabh prajapati
+<br>
+Authors :- 
+saurabh prajapati
+<br>
+Tejas prajapati
+
